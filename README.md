@@ -18,10 +18,10 @@ Articles exploring how to use python to analyze/visualize and try to predict sto
 * [Medium](https://jplavorr.medium.com/)
 
 
-## Projetos:
-### [ETL on B3 Data](https://bit.ly/3l3cVAO): 
+# Projetos:
+## [1 ETL on B3 Data](https://bit.ly/3l3cVAO): 
 
-## Introdução
+### Introdução
 Iremos utilizar o ETL (extraction, Transformation and Load) a partir dos dados das cotações históricas da B3, transformá-los a partir de alguma regra e disponibiliza-los nesse repositório. Essa ETL servirá como base para alimentar futuros artigos sobre análise de dados e machine learning sobre dados da Bovespa.
 
 ### Data 
@@ -31,5 +31,19 @@ Se trata de um arquivo posicional, aonde os dados estão disponibilizados em uma
 ### ETL Pipeline
 
 O ETL pipeline extrai automaticamente os dados dos arquivos `COTAHIST_A{Ano}.TXT` e cria um arquivo csv utilizando o script `ETL_Bovespa.ipynb`, como você pode observar na imagem abaixo
+
+![Pipeline ETL](Imagens/ETL_B3.png)
+
+
+### Pré-requisitos
+
+- Usar Google Colab ou Jupyter. 
+- Ir no site da B3 baixar as cotações históricas.
+- Abrir Layout das cotações históricas para retirada dos dados.
+
+Se você deseja executar esse projeto em sua máquina, basta alterar o código de forma que encontre os arquivos com o caminho dentro do seu computador (Análogo ao Jupyter).
+
+
+
 
 
