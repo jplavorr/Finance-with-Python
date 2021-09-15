@@ -32,8 +32,7 @@ Se trata de um arquivo posicional, aonde os dados estão disponibilizados em uma
 
 O ETL pipeline extrai automaticamente os dados dos arquivos `COTAHIST_A{Ano}.TXT` e cria um arquivo csv utilizando o script `ETL_Bovespa.ipynb`, como você pode observar na imagem abaixo
 
-
-
+![Pipeline ETL](Imagens/ETL_B3.png)
 
 ### Pré-requisitos
 
