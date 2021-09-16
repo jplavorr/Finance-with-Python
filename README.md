@@ -2,7 +2,7 @@
 
 *Finance Market Analysis with Python*
 
-Articles exploring how to use python to analyze/visualize and try to predict stock movement. We will also focus on financial market-oriented libraries.
+Artigos que exploram como usar Python para analisar/visualizar e tentar prever o movimento de ações. Também nos concentraremos em bibliotecas orientadas para o mercado financeiro.
 
 
 <p align="center">
