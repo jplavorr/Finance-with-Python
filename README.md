@@ -19,7 +19,7 @@ Artigos que exploram como usar Python para analisar/visualizar e tentar prever o
 
 
 # Projetos:
-## [1 ETL on B3 Data](https://bit.ly/2XiGHJB): 
+## [ ETL on B3 Data](https://bit.ly/2XiGHJB): 
 
 ### Introdução
 Irei utilizar o ETL (extraction, Transformation and Load) a partir dos dados das cotações históricas da B3, transformá-los a partir de alguma regra e disponibiliza-los nesse repositório. Essa ETL servirá como base para alimentar futuros artigos sobre análise de dados e machine learning sobre dados da Bovespa.
